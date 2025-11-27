@@ -53,7 +53,8 @@ export default function App() {
       features: [
         'Architecture MVC modulaire et scalable',
         'Météothèque avec opérations CRUD',
-        'Assistant IA temps réel via WebSockets',
+        'Assistant IA temps réel via Llama 3.2',
+        'Tchat temps réel via Websocket pour le support',
         'API REST sécurisée pour l\'historique',
         'Suivi d\'activité par Webhook'
       ],
