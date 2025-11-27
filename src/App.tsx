@@ -34,6 +34,19 @@ export default function App() {
 
   const projects = [
     {
+      title: 'Explorateur de Films Mobile',
+      tags: ['React Native', 'Expo', 'TypeScript'],
+      description: 'Application mobile développée avec Expo pour consulter les films populaires et leurs détails via une API de cinéma.',
+      features: [
+        'Interface mobile native fluide',
+        'Appels API asynchrones',
+        'Liste de films avec images',
+        'Page de détails du film',
+        'Navigation entre les écrans'
+      ],
+      link: 'https://github.com/EnproGoat/MovieMobileApp'
+    },
+    {
       title: 'Application Météorologique Full-Stack',
       tags: ['PHP', 'Node.js', 'WebSocket', 'Webhook', 'IA', 'MongoDB', 'MySQL'],
       description: 'Application météo complète avec architecture MVC, assistant IA (Llama 3.2) intégré via tchat temps réel, et système de gestion de comptes.',
