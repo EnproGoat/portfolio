@@ -235,7 +235,7 @@ export default function App() {
                 Développeur full-stack junior passionné par la création d'applications web et mobiles innovantes. Je maîtrise l'ensemble du cycle de développement, de la conception à la mise en production.
               </p>
               <p className="text-gray-300 mb-6 leading-relaxed">
-                Actuellement à la recherche d'un stage de 3 mois à partir de mars ou d'une alternance pour décembre (1semaine/1semaine) afin de continuer à développer mes compétences dans un environnement professionnel stimulant.
+                Actuellement à la recherche d'un stage de 3 mois à partir de mars ou d'une alternance pour décembre ou au plus tard en janvier (1semaine/1semaine) afin de continuer à développer mes compétences dans un environnement professionnel stimulant.
               </p>
               <div className="flex flex-wrap gap-3">
                 <span className="px-4 py-2 bg-purple-600/30 rounded-full text-sm hover:bg-purple-600/50 transition-all hover:scale-105 cursor-default">Autonomie</span>
@@ -394,7 +394,7 @@ export default function App() {
           </h2>
           <div className="bg-slate-800/50 backdrop-blur-sm rounded-xl p-8 border border-purple-500/20 animate-scale-in hover:border-purple-500/50 transition-all hover:shadow-lg hover:shadow-purple-500/20">
             <p className="text-xl text-center mb-8 text-gray-300">
-              Actuellement à la recherche d'un stage de 3 mois à partir de mars
+              Actuellement à la recherche d'un stage de 3 mois à partir de mars ou d'une alternance en déecembre ou au plus tard en janvier
             </p>
             <div className="grid md:grid-cols-2 gap-6">
               <a href="mailto:lokcedriclok@gmail.com" className="flex items-center gap-4 p-4 bg-purple-600/20 rounded-lg hover:bg-purple-600/30 transition-all hover:scale-105 hover:shadow-lg hover:shadow-purple-500/30">
