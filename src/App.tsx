@@ -205,7 +205,7 @@ export default function App() {
             <a href="https://github.com/EnproGoat" target="_blank" rel="noopener noreferrer" className="flex items-center gap-2 px-8 py-4 bg-gradient-to-r from-slate-700 to-slate-900 hover:from-slate-600 hover:to-slate-800 text-white font-extrabold text-lg tracking-wide rounded-xl transition-all hover:scale-105 shadow-lg hover:shadow-white/20 border border-white/20 transform-gpu">
               <Github size={24} strokeWidth={2.5} /> GitHub
             </a>
-            <a href="https://linkedin.com/in/cédric-lok" target="_blank" rel="noopener noreferrer" className="flex items-center gap-2 px-8 py-4 bg-gradient-to-r from-sky-400 to-blue-600 hover:from-sky-300 hover:to-blue-500 text-white font-extrabold text-lg tracking-wide rounded-xl transition-all hover:scale-105 shadow-lg hover:shadow-sky-500/50 border border-white/20 transform-gpu">
+            <a href="https://www.linkedin.com/in/c%C3%A9dric-lok-8421062b5/" target="_blank" rel="noopener noreferrer" className="flex items-center gap-2 px-8 py-4 bg-gradient-to-r from-sky-400 to-blue-600 hover:from-sky-300 hover:to-blue-500 text-white font-extrabold text-lg tracking-wide rounded-xl transition-all hover:scale-105 shadow-lg hover:shadow-sky-500/50 border border-white/20 transform-gpu">
               <Linkedin size={24} strokeWidth={2.5} /> LinkedIn
             </a>
             <button onClick={() => scrollToSection('contact')} className="flex items-center gap-2 px-8 py-4 bg-gradient-to-r from-amber-400 to-orange-600 hover:from-amber-300 hover:to-orange-500 text-white font-extrabold text-lg tracking-wide rounded-xl transition-all hover:scale-105 shadow-lg hover:shadow-orange-500/50 border border-white/20 transform-gpu">
